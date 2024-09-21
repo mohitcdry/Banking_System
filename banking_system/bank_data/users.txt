@@ -1,0 +1,7 @@
+1000,Amit Chaudhary,customer123,customer,52835.0,
+1001,Mohit Chaudhary,customer123,customer, current, 6000.0, kathmandu, sitapaila, 956874231, 587469114785, Amit Chaudhary, Tulsi Das Chaudhary, Ranju Devi
+1002,kali,customer123,customer, savings, 800.0, kalipur, 78954562, 58745454121186487, kalya, kalki, kullu
+1003,srijan napit,customer123,customer, savings, 10000.0, new road, 78954632, 1564841515841515, shiv napit, ____ napit, ____ napit
+1004,srarvre,customer123,customer, current, 5000.0, avervev, 151531, 531351351, dvseve, sdfvs, vrv
+1006,vsaradrba,customer123,customer, savings, 500.0, bfbdfffbsf, 9865471235, 15184535153151351, rgrereb, bsbseb, sdbsb
+1007,agagerav,customer123,customer, savings, 700.0, barrd, 15151, 41351515, fvfda, sdfdbad, dfda
