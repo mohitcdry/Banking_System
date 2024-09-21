@@ -3,7 +3,8 @@
 <p>
 This project is a Python-based console application that simulates a simple banking system.
 The application allows users to perform essential banking operations through a command-line interface (CLI),
-supporting both admin and customer roles.
+supporting both admin and customer roles. 
+<h3>A college project.</h3>
 </p>
 
 <h2>Features:</h2>
@@ -30,3 +31,8 @@ supporting both admin and customer roles.
     basic banking operations in a CLI environment.
   </b>
 </p>
+
+<h1>PLEASE DO NOT COPY THE CODE AND USE IT FOR COMMERCIAL PURPOSE</h1>
+<p>That is all, This is one of my first actual beginner's project in Python and there are bound to be many problems found within it and it could also be written more efficiently, So, I am always ready to hear your suggestion.</p>
+
+<h1>THANK YOU</h2>
